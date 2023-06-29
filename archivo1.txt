@@ -1,3 +1,5 @@
 este es un archivo de txt donde estoy practicando el control de versiones GIT
 
 agrego un nuevo comentario al txt para guardar cambios
+
+se agrega otro comentario para visualizar cambios de commits
