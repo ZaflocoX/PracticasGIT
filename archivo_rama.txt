@@ -3,3 +3,5 @@ sobre las ramas en git, por lo cual fue creado en otra rama
 del proyecto
 
 un nuevo comentario al archivo de la rama-prueba para la perdida de cambios
+
+comentario para practicar conflictos con git
